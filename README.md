@@ -79,14 +79,14 @@ I am a Data Analyst/ Developer from Nepal.
 ---
 <div align="center">
   
-  ### My Stats :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=happyashwini&theme=dark&background=000000)](https://git.io/streak-stats)
+  ### My Statistics :
+  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=happyashwini&theme=dark&background=25192e)](https://git.io/streak-stats)
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=happyashwini&show_icons=true&theme=codeSTACKr" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=happyashwini&show_icons=true&theme=synthwave" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=happyashwini&layout=donut&theme=codeSTACKr&card_width=320" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=happyashwini&layout=donut&theme=synthwave&card_width=320" />
   </a>
   
   <br>
