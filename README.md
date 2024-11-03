@@ -86,7 +86,7 @@ I am a Data Analyst/ Developer from Nepal.
     <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=happyashwini&show_icons=true&theme=synthwave" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=happyashwini&layout=donut&theme=synthwave&card_width=320" />
+    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=happyashwini&layout=compact&theme=synthwave&card_width=320" />
   </a>
   
   <br>
