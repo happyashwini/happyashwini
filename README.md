@@ -7,7 +7,7 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=happyashwini&style=flat-square&color=blue" alt=""/>
   <h1>
-    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2RoYjg4NGd6bHJvMW1mZW1uemVxZmt1NWFsc2t6bDZyN2p1YWU1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RMZWv7UqikFGIvv6m4/giphy.webp" width="50"/>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2RoYjg4NGd6bHJvMW1mZW1uemVxZmt1NWFsc2t6bDZyN2p1YWU1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RMZWv7UqikFGIvv6m4/giphy.webp" width="100"/>
     <br>
     Namaste
   </h1>
