@@ -7,8 +7,9 @@
   </div>
   <img src="https://komarev.com/ghpvc/?username=happyashwini&style=flat-square&color=blue" alt=""/>
   <h1>
-    Hi
-    <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+    <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZ2RoYjg4NGd6bHJvMW1mZW1uemVxZmt1NWFsc2t6bDZyN2p1YWU1NCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9cw/RMZWv7UqikFGIvv6m4/giphy.webp" width="50"/>
+    <br>
+    Namaste
   </h1>
 </div>
 <div align="center">
