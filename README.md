@@ -80,19 +80,19 @@ I am a Data Analyst/ Developer from Nepal.
 <div align="center">
   
   ### My Statistics :
-  [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=happyashwini&theme=dark&background=25192e)](https://git.io/streak-stats)
+  [![GitHub Streak](http://streakstats.amanthapa.com.np?user=happyashwini&theme=dark&background=25192e)](https://git.io/streak-stats)
 
   <a href="https://github.com/anuraghazra/github-readme-stats">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=happyashwini&show_icons=true&theme=synthwave" />
+    <img height=200 align="center" src="https://gitstats.amanthapa.com.np/api?username=happyashwini&show_icons=true&theme=synthwave" />
   </a>
   <a href="https://github.com/anuraghazra/convoychat">
-    <img height=200 align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=happyashwini&theme=synthwave&card_width=320" />
+    <img height=200 align="center" src="https://gitstats.amanthapa.com.np/api/top-langs?username=happyashwini&theme=synthwave&card_width=320" />
   </a>
   
   <br>
   <br>
   
-  [![trophy](https://github-profile-trophy.vercel.app/?username=happyashwini&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+  [![trophy](https://github-trophies.vercel.app/?username=happyashwini&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
   
 </div>
 
