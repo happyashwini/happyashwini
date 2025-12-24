@@ -41,7 +41,7 @@ I am a Data Analyst/ Developer from Nepal.
 
 <div>
   <img src="https://app.powerbi.com/13.0.24611.38/images/PowerBI_MasterLogo.svg" title="PowerBI" **alt="PowerBI" width="40" height="40"/>
-  <img src="https://seeklogo.com/images/T/tableau-software-logo-F1CE2CA54A-seeklogo.com.png" title="Tableau" **alt="Tableau" width="40" height="40"/>
+  <img src="https://imgs.search.brave.com/HGErCabCxgbVir2Bm82lXHLeWNcGv48bLHs-qeyBsGI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9sb2dv/cy13b3JsZC5uZXQv/d3AtY29udGVudC91/cGxvYWRzLzIwMjEv/MTAvVGFibGVhdS1F/bWJsZW0tNzAweDM5/NC5wbmc" title="Tableau" **alt="Tableau" width="70" height="70"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original-wordmark.svg" title="Python" alt="Python" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/r/r-original.svg" title="R"  alt="R" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/rstudio/rstudio-original.svg" title="Rstudio"  alt="Rstudio" width="40" height="40"/>&nbsp;
